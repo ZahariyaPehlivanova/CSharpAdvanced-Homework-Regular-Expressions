@@ -1,0 +1,6 @@
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\06.Extract Hyperlinks\bin\Debug\06.Extract Hyperlinks.exe.config
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\06.Extract Hyperlinks\bin\Debug\06.Extract Hyperlinks.exe
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\06.Extract Hyperlinks\bin\Debug\06.Extract Hyperlinks.pdb
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\06.Extract Hyperlinks\obj\Debug\06.Extract Hyperlinks.csprojResolveAssemblyReference.cache
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\06.Extract Hyperlinks\obj\Debug\06.Extract Hyperlinks.exe
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\06.Extract Hyperlinks\obj\Debug\06.Extract Hyperlinks.pdb

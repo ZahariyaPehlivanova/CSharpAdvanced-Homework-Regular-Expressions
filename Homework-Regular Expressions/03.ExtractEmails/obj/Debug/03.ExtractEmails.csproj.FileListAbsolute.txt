@@ -1,0 +1,9 @@
+D:\VisualStudio\05.Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\VisualStudio\05.Regular Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\VisualStudio\05.Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+D:\VisualStudio\05.Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+D:\VisualStudio\05.Regular Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+D:\VisualStudio\05.Regular Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+D:\VisualStudio\05.Regular Expressions-6,7,8,9\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb
